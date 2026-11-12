@@ -1,6 +1,6 @@
 # Learning Journey
 
-Repositorio de aprendizaje estructurado para programación y bases de datos. Agrupa ejercicios por tema y nivel, con los materiales y soluciones organizados en proyectos independientes.
+Archivo personal de estudio para programación y bases de datos. Reúne cursos y ejercicios de distintas fuentes, con los materiales separados por área. No es un proyecto de software original ni debe presentarse como tal en un portfolio.
 
 ## Rutas de aprendizaje
 
@@ -24,3 +24,12 @@ Material de formación y práctica. Los ejercicios pueden tener distintos nivele
 ## Licencia
 
 Consulta la licencia de cada subproyecto; puede variar entre carpetas.
+
+## Procedencia y atribución
+
+Parte del material se basa en repositorios formativos de terceros y conserva sus licencias y documentación originales:
+
+- [mouredev/hello-sql](https://github.com/mouredev/hello-sql): curso y ejercicios de SQL.
+- [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python): curso y ejercicios de Python.
+
+Los archivos de esos cursos son material de aprendizaje de sus autores originales; las modificaciones, notas o soluciones propias deben distinguirse de forma explícita. Consulta la licencia incluida en cada subproyecto antes de reutilizar o redistribuir contenido.
